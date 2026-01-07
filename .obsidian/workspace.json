@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学物理期末复习/光学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "光学"
-            }
-          },
-          {
-            "id": "a1365796cb5b1d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "算法复习/最大流.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "最大流"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3855cc27076b639b",
+  "active": "14ad1739b2bcd431",
   "lastOpenFiles": [
-    "README.md",
+    "QQ_1767781889634.png",
+    "QQ_1767781838837.png",
+    "QQ_1767781560156.png",
     "算法复习/图.md",
-    "大学物理期末复习/振动和波.md",
     "大学物理期末复习/光学.md",
+    "README.md",
+    "算法复习/最大流.md",
+    "大学物理期末复习/振动和波.md",
     "数字电路/译码器以及编码器（74138）.md",
     "大学物理期末复习/量子物理.md",
     "光学.md",
@@ -223,7 +213,6 @@
     "新建文件夹",
     "算法复习/src/Pasted image 20260106170825.png",
     "算法复习/src",
-    "算法复习/最大流.md",
     "算法复习/src/QQ_1767778439477.png",
     "算法复习/最短路径问题.md",
     "Untitled",
@@ -234,8 +223,6 @@
     "算法复习/src/Pasted image 20260106210707.png",
     "算法复习/src/QQ_1767704430902.png",
     "算法复习/src/QQ_1767704867839.png",
-    "算法复习/src/Pasted image 20260106203356.png",
-    "算法复习/src/QQ_1767705252126.png",
     "算法复习",
     "数字电路/触发器.md",
     "数字电路/二进制并行加法器（74283）.md",
@@ -254,7 +241,6 @@
     "数字电路/可以打的比赛.md",
     "数字电路/8421码.md",
     "deeplearn/ML_DL_CV_with_pytorch/zh/9.md",
-    "deeplearn/ML_DL_CV_with_pytorch/zh/2.md",
     "deeplearn/ML_DL_CV_with_pytorch/zh/1.pdf",
     "deeplearn/ML_DL_CV_with_pytorch/zh/img",
     "deeplearn/ML_DL_CV_with_pytorch/zh",
